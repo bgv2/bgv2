@@ -3,6 +3,8 @@ Software developer with an affinity for gradients.
 
 Currently a UVA student (CS major, minor in DS) building websites and projects that save time and connect people.
 
+Check out [my website](https://bgv2.github.io) for more info.
+
 <!--
 **bgv2/bgv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
