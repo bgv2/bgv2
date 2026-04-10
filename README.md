@@ -1,5 +1,5 @@
 # Bhargav
-Software developer with an affinity of gradients.
+Software developer with an affinity for gradients.
 
 Currently a UVA student (CS major, minor in DS) building websites and projects that save time and connect people.
 
