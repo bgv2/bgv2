@@ -1,4 +1,7 @@
-## Hi there 👋
+# Bhargav
+Software developer with an affinity of gradients.
+
+Currently a UVA student (CS major, minor in DS) building websites and projects that save time and connect people.
 
 <!--
 **bgv2/bgv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
